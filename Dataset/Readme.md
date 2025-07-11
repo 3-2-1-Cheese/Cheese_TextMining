@@ -17,3 +17,9 @@
   |Revisit|방문 횟수|
   
 - Naver Blog Reviews
+  |Column 명|설명|
+  |---|---|
+  |Place ID|사진관 고유 ID|
+  |Place Name|플레이스 저장 명|
+  |Content|블로그 내용 중 사진관 관련 내용|
+  |Blog Link|블로그 원문 링크|
