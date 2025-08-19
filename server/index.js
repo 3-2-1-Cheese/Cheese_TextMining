@@ -21,6 +21,7 @@ app.use(cookieParser());
 
 app.use(function (req, res, next) {
   // console.log(req);
+  console.log(`${req.method} ${req.url}`);
   return next();
 })
 
